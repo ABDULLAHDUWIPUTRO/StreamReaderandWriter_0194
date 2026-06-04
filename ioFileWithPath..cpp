@@ -2,3 +2,14 @@
 #include <fstream>
 #include <string>
 using namespace std;
+
+int main()
+{
+    //deklarasi variabel baris dan Namafile
+    string baris, Namafile;
+
+    //membuat input untuk menangkap nama file
+    cout << "Masukkan nama file : ";
+    cin >> Namafile;
+
+}
